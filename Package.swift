@@ -7,7 +7,7 @@ let package = Package(
     name: "WeatherShapeStyles",
     platforms: [
         .macOS(.v13),
-        .iOS(.v13),
+        .iOS(.v15),
         .tvOS(.v13),
         .watchOS(.v6)
     ],
